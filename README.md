@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am an enthusiastic, passionate programmer. Coding is part of my everyday life. My philosophy is that in order to find a meaningful and respectful purpose in life, we should struggle with such cruel world challenges where is an unknown ocean. Learning new things every day is a great challenge for that purpose.
 <!--
 **Muttalip7402/Muttalip7402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
